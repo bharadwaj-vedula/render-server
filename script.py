@@ -1,7 +1,6 @@
 
 import anvil.server
-anvil.server.connect("")#enter your uplink key here
-
+anvil.server.connect("RBMDSINJK5QIZO6DVQYDSPHR-FKQGLYATJUT6HVYE")
 from tensorflow.keras.models import load_model 
 
 from tensorflow.keras.preprocessing.image import img_to_array,load_img
