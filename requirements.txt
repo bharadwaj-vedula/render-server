@@ -1,5 +1,5 @@
 numpy
 keras==2.2.5
 anvil-uplink==0.3.30
-tensorflow==2.0.0
+tensorflow==2.5.0
 pillow
